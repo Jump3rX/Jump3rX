@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Conrad</h1>
-<h3 align="center">A software engineer. I like building things.</h3>
+<h1 align="center">Hello 👋</h1>
+<h3 align="center">I am software engineer. I like building things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jump3rx&label=Profile%20views&color=0e75b6&style=flat" alt="jump3rx" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jump3rX](https://github.com/Jump3rX)
 
-- 💬 Ask me about **Django, Flask, JavaScript,**
+- 💬 Ask me about **Python, Django, Flask, JavaScript,**
 
 - 📫 How to reach me **conradmax5@gmail.com**
 
