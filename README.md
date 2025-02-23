@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋</h1>
-<h3 align="center">I am software engineer. I like building things.</h3>
+<h3 align="center">I am software developer. I like building things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jump3rx&label=Profile%20views&color=0e75b6&style=flat" alt="jump3rx" /> </p>
 
